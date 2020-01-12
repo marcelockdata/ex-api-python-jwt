@@ -1,0 +1,34 @@
+
+
+
+
+criar ambiente virtual
+
+virtualenv ambvir --python=python3.7
+
+executar ambiente virtual
+source ambvir/bin/activate
+
+
+verificar bibliotecas instaladas
+pip freeze
+
+instslando o Flask
+
+pip install Flask
+
+pip install Flask-Restful
+
+
+pip install SQLAlchemy
+
+pip install Flask-SQLAlchemy
+
+
+pip install Flask-JWT-Extended
+
+pip install Flask-Jsonpify
+
+ativar ambiente virtual
+
+source ambvir/bin/activate
